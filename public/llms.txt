@@ -6,24 +6,24 @@
 
 ## Pages
 
-### דף הבית
+### Home
 https://example.com
 גלו את עולם הכושר של Fitcarry עם אופני כושר SportsArt, הליכונים ומגוון ציוד ספורט מתקדם. הצטרפו לאלפים שמתאמנים איתנו והתחילו לשנות את הגוף שלכם עוד היום!
 
-### שיטת Fitcarry
-https://example.com/method
+### The Fitcarry Method
+https://example.com/the-fitcarry-method
 שיטת Fitcarry משלבת אופני כושר SportsArt ומכשירי אימון חכמים לבניית תוכנית מנצחת. גלו איך להפיק את המקסימום מכל דקה באימון עם הגישה הייחודית שלנו!
 
-### מערכי אימון
+### Training Setups
 https://example.com/training-setups
 מערכי אימון מוכנים לשימוש עם אופני SportsArt, הליכונים ומשקולות. בחרו את המסלול המושלם עבורכם, משריפת שומנים ועד חיטוב, והתחילו לראות תוצאות אמיתיות!
 
-### אודות Fitcarry
-https://example.com/about
+### About Fitcarry
+https://example.com/about-fitcarry
 Fitcarry נולדה מתשוקה לציוד ספורט איכותי כמו אופני SportsArt והליכונים מקצועיים. הכירו את הצוות, החזון והמחויבות שלנו להפוך כל אימון לחוויה מעצימה ומדויקת.
 
-### צור קשר
-https://example.com/contact
+### Contact Us
+https://example.com/contact-us
 יש שאלות על אופני כושר SportsArt, הליכונים או ציוד ספורט? צרו קשר עם צוות Fitcarry עוד היום! אנחנו כאן כדי לעזור לכם לבחור את הציוד שיביא אתכם לשיא הבא.
 
 ### Products

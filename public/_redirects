@@ -1,12 +1,12 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-07-13T14:58:05.631Z
+# Generated: 2026-07-13T15:19:06.597Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
-/method  /method.html  200!
+/the-fitcarry-method  /the-fitcarry-method.html  200!
 /training-setups  /training-setups.html  200!
-/about  /about.html  200!
-/contact  /contact.html  200!
+/about-fitcarry  /about-fitcarry.html  200!
+/contact-us  /contact-us.html  200!
 /products  /products.html  200!
 /cart  /cart.html  200!
 /checkout  /checkout.html  200!
