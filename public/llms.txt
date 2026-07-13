@@ -7,73 +7,73 @@
 ## Pages
 
 ### דף הבית
-https://fitcarry-3df4406c.zappy5.app
+https://example.com
 גלו את עולם הכושר של Fitcarry עם אופני כושר SportsArt, הליכונים ומגוון ציוד ספורט מתקדם. הצטרפו לאלפים שמתאמנים איתנו והתחילו לשנות את הגוף שלכם עוד היום!
 
 ### שיטת Fitcarry
-https://fitcarry-3df4406c.zappy5.app/method
+https://example.com/method
 שיטת Fitcarry משלבת אופני כושר SportsArt ומכשירי אימון חכמים לבניית תוכנית מנצחת. גלו איך להפיק את המקסימום מכל דקה באימון עם הגישה הייחודית שלנו!
 
 ### מערכי אימון
-https://fitcarry-3df4406c.zappy5.app/training-setups
+https://example.com/training-setups
 מערכי אימון מוכנים לשימוש עם אופני SportsArt, הליכונים ומשקולות. בחרו את המסלול המושלם עבורכם, משריפת שומנים ועד חיטוב, והתחילו לראות תוצאות אמיתיות!
 
 ### אודות Fitcarry
-https://fitcarry-3df4406c.zappy5.app/about
+https://example.com/about
 Fitcarry נולדה מתשוקה לציוד ספורט איכותי כמו אופני SportsArt והליכונים מקצועיים. הכירו את הצוות, החזון והמחויבות שלנו להפוך כל אימון לחוויה מעצימה ומדויקת.
 
 ### צור קשר
-https://fitcarry-3df4406c.zappy5.app/contact
+https://example.com/contact
 יש שאלות על אופני כושר SportsArt, הליכונים או ציוד ספורט? צרו קשר עם צוות Fitcarry עוד היום! אנחנו כאן כדי לעזור לכם לבחור את הציוד שיביא אתכם לשיא הבא.
 
 ### Products
-https://fitcarry-3df4406c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Fitcarry
 
 ### Cart
-https://fitcarry-3df4406c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://fitcarry-3df4406c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://fitcarry-3df4406c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://fitcarry-3df4406c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://fitcarry-3df4406c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://fitcarry-3df4406c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Fitcarry
 
 ### Category
-https://fitcarry-3df4406c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Fitcarry
 
 ### תודה - Fitcarry
-https://fitcarry-3df4406c.zappy5.app/thank-you
+https://example.com/thank-you
 Fitcarry - תודה - Fitcarry
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fitcarry-3df4406c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fitcarry-3df4406c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fitcarry-3df4406c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Fitness & Sports Equipment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fitcarry-3df4406c.zappy5.app/sitemap.xml
-- Robots: https://fitcarry-3df4406c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fitcarry-3df4406c.zappy5.app/llms-full.txt
-- Products (JSON): https://fitcarry-3df4406c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fitcarry-3df4406c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
